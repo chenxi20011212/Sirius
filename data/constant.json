@@ -1,0 +1,19 @@
+{
+    "gamma_RA": "13 09 48",
+    "gamma_Dec": -23.4,
+    "CubeSat1_RA ":  "15 16 21",
+    "CubeSat1_Dec":  41.6,    
+    "CubeSat2_RA":  "12 54 42",
+    "CubeSat2_Dec":  -38.3,    
+    "CubeSat3_RA":  "2 03 13",  
+    "CubeSat3_Dec":  -12.1,    
+    "altitude_1":  548, 
+    "altitude_2":  527, 
+    "altitude_3":  573,
+    "quaternion_1": "0.661, 0.665, 0.199, 0.100",
+    "quaternion_2": "0  0 0",
+    "quaternion_3": "0  0 0",
+    "radius_earth": 6371,
+    "mu": 100,
+    "sigma": 50
+}

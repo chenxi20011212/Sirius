@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+spectrum.png
+light_curve.h5
+light_curve.png
+energy_response.h5
+energy_response.gif
